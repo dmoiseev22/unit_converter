@@ -1,7 +1,7 @@
 body {
-    margin: 50 auto;
     text-align: center;
     background: #000000;
+    
 }
 
 .header {
@@ -13,7 +13,7 @@ body {
     justify-content: space-around;
     background: #6943FF;
     color: #FFFFFF;
-    margin: 0 auto;
+    margin: 25px auto 0 auto;
 }
 
 #inputfield {
